@@ -22,7 +22,9 @@ This is **Error mode**
 
 ## Installation
 Copy customzsh.zsh-theme into your `~/.oh-my-zsh/themes/` directory or `~/.oh-my-zsh/custom/themes/` directory  
+
 Then change a current theme to customzsh `ZSH_THEME` in your `~/.zshrc` .  
+
 Activate a new theme with `$source ~/.zshrc`
 
 ## Syntax
