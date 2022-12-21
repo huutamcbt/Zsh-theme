@@ -4,4 +4,4 @@
  ![][normal mode]
 
 
- [normal mode]: https://drive.google.com/file/d/18ggEHtRTmgTFLC6DITXlSYYQnQJ1NsBV/view?usp=share_link
+ [normal mode]: ./assets/normal-mode.png 
