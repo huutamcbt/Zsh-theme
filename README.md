@@ -13,10 +13,19 @@ This is **Error mode**
 
 ## Requirements  
 * Windows, Linux or MacOS
-* Zsh
-* Oh My Zsh
+* [Oh My Zsh][oh my zsh link]
+
+>This theme will not work correctly on some terminals.  
+
+## Installation
+Copy customzsh.zsh-theme into your `~/.oh-my-zsh/themes/` directory or `~/.oh-my-zsh/custom/themes/` directory  
+Then change a current theme to customzsh `ZSH_THEME` in your ~/.zshrc.  
+Activate a new theme with `$source ~/.zshrc`
+
+
 
 [//]: <> (This is a variable definition area)
 [normal mode]: ./assets/normal-mode.png 
 [git mode]: ./assets/git-mode.png
 [error mode]: ./assets/error-mode.png
+[oh my zsh link]: https://ohmyz.sh/ 
