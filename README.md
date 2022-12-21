@@ -1,5 +1,6 @@
 # Zsh-theme
 This is my custom zsh theme.
+I reference the zsh theme of [chris@machine][]
 This is a simple style theme with harmonious color  
 This is **Normal mode**  
 ![][normal mode]
@@ -41,3 +42,4 @@ Thanks
 [git mode]: ./assets/git-mode.png
 [error mode]: ./assets/error-mode.png
 [oh my zsh link]: https://ohmyz.sh/ 
+[chris@machine]: https://www.youtube.com/@chrisatmachine
