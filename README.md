@@ -12,7 +12,9 @@ This is **Error mode**
 
 
 ## Requirements  
----
+* Windows, Linux or MacOS
+* Zsh
+* Oh My Zsh
 
 [//]: <> (This is a variable definition area)
 [normal mode]: ./assets/normal-mode.png 
