@@ -21,11 +21,11 @@ This is **Error mode**
 >This theme will not work correctly on some terminals.  
 
 ## Installation
-Copy customzsh.zsh-theme into your `~/.oh-my-zsh/themes/` directory or `~/.oh-my-zsh/custom/themes/` directory  
+1. Copy customzsh.zsh-theme into your `~/.oh-my-zsh/themes/` directory or `~/.oh-my-zsh/custom/themes/` directory  
 
-Then change a current theme to customzsh `ZSH_THEME` in your `~/.zshrc` .  
+2. Then change a current theme to customzsh `ZSH_THEME` in your `~/.zshrc` .  
 
-Activate a new theme with `$source ~/.zshrc`
+3. Activate a new theme with `$source ~/.zshrc`
 
 ## Syntax
 * `➜ current_dir (git_branch)`  
