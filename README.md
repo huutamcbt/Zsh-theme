@@ -22,7 +22,14 @@ Copy customzsh.zsh-theme into your `~/.oh-my-zsh/themes/` directory or `~/.oh-my
 Then change a current theme to customzsh `ZSH_THEME` in your `~/.zshrc` .  
 Activate a new theme with `$source ~/.zshrc`
 
+## Syntax
+* `➜ current_dir (git_branch)`  
+* ✗ Git prompt is dirty (uncommitted files)
 
+## Suggestions
+
+
+Thanks
 
 [//]: <> (This is a variable definition area)
 [normal mode]: ./assets/normal-mode.png 
