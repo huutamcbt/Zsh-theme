@@ -12,7 +12,10 @@ This is **Error mode**
 
 
 ## Requirements  
-* Windows, Linux or MacOS
+* Operating System 
+	* Windows 
+	* Linux 
+	* MacOS
 * [Oh My Zsh][oh my zsh link]
 
 >This theme will not work correctly on some terminals.  
