@@ -1,7 +1,10 @@
 # Zsh-theme
 This is my custom zsh theme.
+
 I reference the zsh theme of [chris@machine][]
+
 This is a simple style theme with harmonious color  
+
 This is **Normal mode**  
 ![][normal mode]
 
