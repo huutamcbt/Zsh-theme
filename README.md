@@ -12,7 +12,7 @@ This is **Error mode**
 
 
 ## Requirements  
-
+---
 
 [//]: <> (This is a variable definition area)
 [normal mode]: ./assets/normal-mode.png 
