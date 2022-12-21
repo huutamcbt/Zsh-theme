@@ -11,7 +11,11 @@ This is **Error mode**
 ![][error mode]
 
 
+##Requirements  
+---
 
+
+[//]: <> (This is a variable definition area)
 [normal mode]: ./assets/normal-mode.png 
 [git mode]: ./assets/git-mode.png
 [error mode]: ./assets/error-mode.png
