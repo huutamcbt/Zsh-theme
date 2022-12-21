@@ -5,7 +5,7 @@ This is **Normal mode**
 ![][normal mode]
 
 This is **Git mode**  
-![][gti mode]
+![][git mode]
 
 This is **Error mode**
 ![][error mode]
